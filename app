@@ -1,0 +1,1 @@
+<embed width="800" height="600" base="http://external.kongregate-games.com/gamez/0021/6697/live/" src="http://external.kongregate-games.com/gamez/0021/6697/live/embeddable_216697.swf" type="application/x-shockwave-flash"></embed><br/>Play free games at <a href="http://www.kongregate.com/">Kongregate</a>
